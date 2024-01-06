@@ -1,5 +1,7 @@
 # 100 beliebteste Filme von 2003 bis 2022 
 Dieses Projekt beschäftigt sich mit den 100 beliebstesten Filmen von 2003 bis 2022. Es werden unterschiedliche Aspekte untersucht, welche anbei aufgeführt sind. Das Ziel dieses Projekts ist zu erkennen was einen Film populär macht. Dieses Ziel wird anhand von explorativer Datenanalyse erreicht werden. 
+Verwendet wurde dieser Datensatz: Top 100 popular movies from 2003 to 2022 
+(iMDB)  https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb 
 
 # Welche Genres sind am häufigsten in der Auswahl der Top-100-Filme pro Jahr vertreten?
 
