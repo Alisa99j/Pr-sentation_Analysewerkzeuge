@@ -64,6 +64,7 @@ Wirtschaftlicher Nutzen der Beantwortung dieser Frage: Investitionen in beliebte
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/e3c73e2f-2ec8-4dee-9a37-248cbbe19f02)
 
+Dieses Diagramm zeigt die zehn häufigsten Filmgenres. Die Genres "Action, Adventure, Sci-Fi" und "Animation, Adventure, Comedy" sind besonders prominent vertreten
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/d515ff71-bd0e-44f5-8003-b70074092ac2)
 
@@ -71,14 +72,19 @@ Wirtschaftlicher Nutzen der Beantwortung dieser Frage: Investitionen in beliebte
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/0d8343ca-b05b-4c26-b794-37c95877d692)
 
+Das beliebteste Genre über die Jahre war Action, Adventure, Comedy. 
 
 # Wie haben sich die durchschnittlichen Filmbewertungen im Laufe der Jahre entwickelt?
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/e94afa28-bcc8-408a-9471-4598e8949486)
 
+Es ist deutlich zu sehen, dass die Ratings für das Jahr 2020 am schwächsten sind. 
+
 # Besonderheiten 2020 
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/1556b9f8-923b-4c2c-9ec3-86a8939c7867)
+
+Das obige Diagramm konzentriert sich auf das Jahr 2020 und zeigt, dass "Drama" das am häufigsten vorkommende Genre war, gefolgt von "Comedy" und "Action"
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/df616134-1776-4f70-8667-7af56ba74d2a)
 
