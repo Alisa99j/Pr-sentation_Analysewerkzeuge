@@ -1,4 +1,4 @@
-# 100 beliebteste Filme von 2003 bis 2022 
+# Einführung 
 
 Dieses Projekt beschäftigt sich mit den 100 beliebstesten Filmen von 2003 bis 2022. Es werden unterschiedliche Aspekte untersucht, welche anbei aufgeführt sind. Das Ziel dieses Projekts ist zu erkennen was einen Film populär macht. Dieses Ziel wird anhand von explorativer Datenanalyse erreicht werden. 
 
@@ -36,31 +36,50 @@ Budget
 Einkommen
 
 Herkunftsland
+# Rohdaten
 
-# Welche Genres sind am häufigsten in der Auswahl der Top-100-Filme pro Jahr vertreten?
+Die fehlenden Werte im Datensatz wurden entfernt
+
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/90e081b1-0c9a-4f1c-b11b-9d921c99630c)
+
+•	Insgesamt gibt es 1965 Zeilen im Datensatz
+•	Jede der 13 Spalten hat 1965 Nicht-Null-Werte.
+•	Es gibt eine Spalte mit numerischen Daten (Dtype: float64), eine Spalte mit ganzzahligen Daten (Dtype: int64) und elf Spalten mit Objekten (Dtype: object).
+
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/94605448-30af-448c-a047-2b2567c9aa0b)
+
+# Packages 
+Das Projekt verwendet folgende Pakete: 
+pandas: Zur Datenverarbeitung
+black: Für die Code-Formatierung 
+
+pandas 1.2.3 : zur Datenverarbeitung
+numpy 1.24.3 : für Berechnungen
+matplotlib 3.7.1 : für statistische Visualisierungen
+seaborn 0.12.2: besonders gut geeignet für die Visualisierung von komplexen Datensätzen und unterstützt verschiedene Plottypen
+black 22.3.0 : für die Code-Formatierung
+sklearn 1.3.0 : für Regressionsanalyse 
+
+
+# Welche Top-10 Genres sind am häufigsten in der Auswahl der Top-100-Filme pro Jahr vertreten?
 
 Warum ist das wichtig? 
 Die Identifikation beliebter Genres gibt Einblicke in Marktpräferenzen und hilft bei Entscheidungen über das Filmangebot.
 Wirtschaftlicher Nutzen der Beantwortung dieser Frage: Investitionen in beliebte Genres können durchgeführt werden was dazu führt, dass sich die Einnahmen steigern. 
 
-![image](https://github.com/Alisa99j/Pr-sentation_Analysewerkzeuge/assets/155681145/4863c681-656a-4d81-9f48-232152ab0043)
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/e3c73e2f-2ec8-4dee-9a37-248cbbe19f02)
 
-Das Genre mit dem höchsten Durchschnittsrating ist 'Biography' mit einem Rating von 7.28
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/d515ff71-bd0e-44f5-8003-b70074092ac2)
 
-Das durchschnittliche Rating für das Genre Drama liegt bei  6.925025853154085. Trotz dieser Tatsache ist Drama das Genre, welches am häufigsten in den Top-100-Filmen vorgekommen ist. 
+# Welches Genre war am beliebtesten im Verlauf der Jahre? 
+
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/0d8343ca-b05b-4c26-b794-37c95877d692)
 
 
 # Wie haben sich die durchschnittlichen Filmbewertungen im Laufe der Jahre entwickelt?
 
-![image](https://github.com/Alisa99j/Pr-sentation_Analysewerkzeuge/assets/155681145/47f3c620-203b-4bd0-a2f3-5a74545f5828)
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/e94afa28-bcc8-408a-9471-4598e8949486)
 
-![image](https://github.com/Alisa99j/Pr-sentation_Analysewerkzeuge/assets/155681145/9579784a-f55f-4440-aa7f-97a7f27d8541)
-
-![image](https://github.com/Alisa99j/Pr-sentation_Analysewerkzeuge/assets/155681145/e8303573-4438-4763-a639-f0cbd566f484)
-
-![image](https://github.com/Alisa99j/Pr-sentation_Analysewerkzeuge/assets/155681145/80ca4af1-63cc-4ca2-b639-d0747ec9a389)
-
-Trotz der Tatsache, das im Jahr 2020 Drama, Comedy, Action und Thriller die am häufigsten vertretenen Genres waren waren die Ratings in diesem Jahr am niedrigsten. Ist möglicherweise das Interesse der Kund:innen an Filmen niedriger geworden? Kein Unterschied in Genres zu erkennen im Vergleich zu 2022.  
 
 # Gibt es einen Zusammenhang zwischen einem höheren Filmbudget und besseren Ratings von Filmen? 
 Warum ist das wichtig? Diese Untersuchung bietet Einblicke, wie Finanzierungsentscheidungen den kommerziellen Erfolg von Filmen beeinflussen und kann Produktionsstrategien informieren.
