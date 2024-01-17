@@ -150,4 +150,22 @@ Im Jahr 2020 ist auch in Österreich ein drastischer Rückgang der Kinobesuche z
 
 Quelle: https://www.statistik.at/statistiken/bevoelkerung-und-soziales/kultur/museen-und-ausstellungen - Kulturstatistik 2021 
 
+# Ausblick für zukünftige Untersuchungen 
+
+Einfluss von Streaming-Plattformen - Wie verändert sich das Publikumsverhalten durch das Angebot an Streaming-Optionen?
+
+Einfluss von technologischen Entwicklungen - Wie verändert sich das Publikumsverhalten durch den Einfluss von Technologien wie Virtual Reality? 
+
 # Abschluss 
+
+Dieses Projekt hat einen umfassenden Einblick in die Welt der populären Filme von 2003 bis 2022 gegeben, indem es verschiedene Faktoren untersuchte, die zur Popularität eines Films beitragen.
+
+Durch die Analyse von Aspekten wie Genres, Bewertungen, Budgets und vielem mehr, konnten wir nicht nur verstehen, was einen Film populär macht, sondern auch, wie sich diese Faktoren im Laufe der Zeit verändert haben. Besonders bemerkenswert war der Einfluss der COVID-19-Pandemie auf die Filmindustrie im Jahr 2020, der einen deutlichen Einbruch in den Kinobesuchen, den damit verbundenen Einnahmen zeigte und auch den Ratings zeigte. 
+
+Obwohl dieser Einblick wertvoll ist, bleibt die Filmwelt eine sich ständig verändernde Landschaft, beeinflusst von technologischen Fortschritten, globalen Ereignissen und sich wandelnden Zuschauerpräferenzen. Zukünftige Studien sollten daher die Rolle von Streaming-Diensten, die Evolution von Filmgenres , um ein noch vollständigeres Bild der Faktoren zu erhalten, die die Popularität von Filmen bestimmen. In dieser dynamischen Branche bleibt die einzige Konstante der Wandel selbst, und es ist spannend zu beobachten, wie sich zukünftige Trends entwickeln werden. 
+
+
+
+
+
+
