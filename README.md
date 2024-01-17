@@ -12,17 +12,29 @@ Jede einzelne Information wurde durch Web-Scraping gesammelt und ist auf iMDB zu
 Das Datenset enthält:
 
 Titel
+
 Bewertung
+
 Jahr
+
 Monat
+
 Zertifikat
+
 Laufzeit
+
 Regisseur/e
+
 Stars
+
 Genre/s
+
 Drehort
+
 Budget
+
 Einkommen
+
 Herkunftsland
 
 # Welche Genres sind am häufigsten in der Auswahl der Top-100-Filme pro Jahr vertreten?
