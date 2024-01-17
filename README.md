@@ -76,6 +76,17 @@ Wirtschaftlicher Nutzen der Beantwortung dieser Frage: Investitionen in beliebte
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/e94afa28-bcc8-408a-9471-4598e8949486)
 
+# Besonderheiten 2020 
+
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/1556b9f8-923b-4c2c-9ec3-86a8939c7867)
+
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/df616134-1776-4f70-8667-7af56ba74d2a)
+
+
+# Top 10 der Filme mit den schlechtesten Bewertungen im Jahr 2020 
+
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/1db9b0b9-9d02-4238-b18b-b586ce596b3f)
+
 
 # Gibt es einen Zusammenhang zwischen einem höheren Filmbudget und besseren Ratings von Filmen? 
 Warum ist das wichtig? Diese Untersuchung bietet Einblicke, wie Finanzierungsentscheidungen den kommerziellen Erfolg von Filmen beeinflussen und kann Produktionsstrategien informieren.
@@ -84,13 +95,15 @@ Wirtschaftlicher Nutzen der Beantwortung dieser Frage: Filmproduzenten können d
 
 Um die Korrelation zu messen wurde der Pearson-Korrelationskoeffizient verwendet. 
 
-![image](https://github.com/Alisa99j/Pr-sentation_Analysewerkzeuge/assets/155681145/fd68073b-02ee-4de6-9d6f-2db05f763c78)
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/1f350cd1-56c4-4649-adcb-fa512153585e)
 
+Das Streudiagramm zeigt die Datenpunkte mit einer überlagerten Regressionslinie. Die Flachheit der Linie spiegelt die geringe Steigung wider, die aus der geringen Korrelation resultiert. Die Punkte liegen weit verstreut und zeigen keine deutliche Tendenz, der Linie zu folgen, was auf eine geringe Vorhersagekraft des Ratings für das Budget hindeutet.
 
-Pearson-Korrelationskoeffizient: 0.41701207326490164
-Der Pearson-Korrelationskoeffizient von 0.417 deutet darauf hin, dass es eine positive lineare Korrelation zwischen Filmbudget und Einkommen an der Kinokasse gibt, aber die Korrelation ist nicht sehr stark. Der Wert 0.417 liegt zwischen 0 und 1, wobei 1 eine perfekte positive Korrelation bedeutet. 
-Eine positive Korrelation von 0.417 zeigt an, dass es tendenziell eine Zunahme des Einkommens an der Kinokasse mit steigendem Filmbudget gibt, aber die Beziehung ist nicht sehr ausgeprägt. Es könnte andere Faktoren geben, die das Einkommen beeinflussen, und das Filmbudget erklärt nur einen Teil der Variation im Einkommen.
-Insgesamt gibt der Korrelationskoeffizient an, dass es einen positiven Trend gibt, aber es ist wichtig, auch andere Faktoren und die Stärke der Korrelation zu berücksichtigen, um fundiertere Schlussfolgerungen zu ziehen.
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/5d9f032e-77ee-42da-8abc-f33056f8665a)
+
+Die Heatmap zeigt eine Korrelationsmatrix, in der die Korrelation von 'Rating' zu sich selbst und von 'Budget' zu sich selbst jeweils 1 ist, was erwartet wird. Die Korrelation zwischen 'Rating' und 'Budget' wird als 0.053 angezeigt, was die sehr schwache Beziehung bestätigt.
+
+Es besteht also keine starke lineare Beziehung zwischen dem Budget und dem Rating
 
 
 # Gibt es einen Zusammenhang zwischen der Länge eines Films und den Ratings von Filmen? 
@@ -98,12 +111,10 @@ Insgesamt gibt der Korrelationskoeffizient an, dass es einen positiven Trend gib
 Warum ist das wichtig?
 Die Analyse der Laufzeitbewertungskorrelation hilft, das optimale Gleichgewicht zwischen einer ansprechenden Laufzeit und Zuschauerzufriedenheit zu verstehen. 
 
-Auch hier wurde der Pearson-Korrelationskoeffizient um einen möglichen Zusammenhang festzustellen. 
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/0f6c5090-a364-4f1e-8702-40f6cb6c44ee)
 
-![image](https://github.com/Alisa99j/Pr-sentation_Analysewerkzeuge/assets/155681145/cb9d2ea7-6274-4ec6-a2a9-8a4c9f701444)
+Die Korrelation von ungefähr 0.38 weist darauf hin, dass es eine positive Assoziation zwischen der Laufzeit eines Films und seiner Bewertung gibt das heißt, Filme mit einer längeren Laufzeit tendieren dazu, höhere Bewertungen zu haben.
 
-Die Korrelation zwischen Laufzeit und Bewertung beträgt 0.38131891511592747
-
-In diesem Fall deutet der positive Korrelationskoeffizient darauf hin, dass es eine gewisse positive Beziehung zwischen der Laufzeit eines Films und seiner Bewertung gibt. Das bedeutet, dass längere Filme tendenziell höhere Bewertungen erhalten könnten.  
+Korrelation zwischen Laufzeit und Bewertung: 0.3785280720080518
 
 # Abschluss 
