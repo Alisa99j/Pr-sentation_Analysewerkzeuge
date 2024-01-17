@@ -11,31 +11,21 @@ Jede einzelne Information wurde durch Web-Scraping gesammelt und ist auf iMDB zu
 
 Das Datenset enthält:
 
-Titel
+•	Titel
+•	Bewertung
+•	Jahr 
+•	Monat
+•	Zertifikat
+•	Laufzeit
+•	Regisseur/e
+•	Stars
+•	Genre/s
+•	Drehort
+•	Budget 
+•	Einnahmen
+•	Herkunftsland
 
-Bewertung
 
-Jahr
-
-Monat
-
-Zertifikat
-
-Laufzeit
-
-Regisseur/e
-
-Stars
-
-Genre/s
-
-Drehort
-
-Budget
-
-Einkommen
-
-Herkunftsland
 # Rohdaten
 
 Die fehlenden Werte im Datensatz wurden entfernt
@@ -54,10 +44,15 @@ pandas: Zur Datenverarbeitung
 black: Für die Code-Formatierung 
 
 pandas 1.2.3 : zur Datenverarbeitung
+
 numpy 1.24.3 : für Berechnungen
+
 matplotlib 3.7.1 : für statistische Visualisierungen
+
 seaborn 0.12.2: besonders gut geeignet für die Visualisierung von komplexen Datensätzen und unterstützt verschiedene Plottypen
+
 black 22.3.0 : für die Code-Formatierung
+
 sklearn 1.3.0 : für Regressionsanalyse 
 
 
@@ -68,6 +63,7 @@ Die Identifikation beliebter Genres gibt Einblicke in Marktpräferenzen und hilf
 Wirtschaftlicher Nutzen der Beantwortung dieser Frage: Investitionen in beliebte Genres können durchgeführt werden was dazu führt, dass sich die Einnahmen steigern. 
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/e3c73e2f-2ec8-4dee-9a37-248cbbe19f02)
+
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/d515ff71-bd0e-44f5-8003-b70074092ac2)
 
