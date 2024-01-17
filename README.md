@@ -109,7 +109,7 @@ Warum ist das wichtig? Diese Untersuchung bietet Einblicke, wie Finanzierungsent
 
 Wirtschaftlicher Nutzen der Beantwortung dieser Frage: Filmproduzenten können durch die Analyse der Budget-Erfolg-Korrelation bessere Entscheidungen bei der Budgetierung treffen. Optimale Budgetierungsstrategien können zu maximierten Einnahmen bei minimierten Kosten führen, wodurch die Rentabilität gesteigert wird. 
 
-Um die Korrelation zu messen wurde der Pearson-Korrelationskoeffizient verwendet. 
+
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/1f350cd1-56c4-4649-adcb-fa512153585e)
 
