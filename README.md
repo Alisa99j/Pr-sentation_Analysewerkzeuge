@@ -26,7 +26,7 @@ Das Datenset enthält:
 •	Herkunftsland
 
 
-# Rohdaten
+# Rohdaten des Datensatzes
 
 Die fehlenden Werte im Datensatz wurden entfernt
 
@@ -74,25 +74,16 @@ Dieses Diagramm zeigt die zehn häufigsten Filmgenres. Die Genres "Action, Adven
 
 Das beliebteste Genre über die Jahre war Action, Adventure, Comedy. 
 
-# Wie haben sich die durchschnittlichen Filmbewertungen im Laufe der Jahre entwickelt?
+# Gibt es einen Zusammenhang zwischen der Länge eines Films und den Ratings von Filmen? 
 
-![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/e94afa28-bcc8-408a-9471-4598e8949486)
+Warum ist das wichtig?
+Die Analyse der Laufzeitbewertungskorrelation hilft, das optimale Gleichgewicht zwischen einer ansprechenden Laufzeit und Zuschauerzufriedenheit zu verstehen. 
 
-Es ist deutlich zu sehen, dass die Ratings für das Jahr 2020 am schwächsten sind. 
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/0f6c5090-a364-4f1e-8702-40f6cb6c44ee)
 
-# Besonderheiten 2020 
+Die Korrelation von ungefähr 0.38 weist darauf hin, dass es eine positive Assoziation zwischen der Laufzeit eines Films und seiner Bewertung gibt das heißt, Filme mit einer längeren Laufzeit tendieren dazu, höhere Bewertungen zu haben.
 
-![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/1556b9f8-923b-4c2c-9ec3-86a8939c7867)
-
-Das obige Diagramm konzentriert sich auf das Jahr 2020 und zeigt, dass "Drama" das am häufigsten vorkommende Genre war, gefolgt von "Comedy" und "Action"
-
-![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/df616134-1776-4f70-8667-7af56ba74d2a)
-
-
-# Top 10 der Filme mit den schlechtesten Bewertungen im Jahr 2020 
-
-![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/1db9b0b9-9d02-4238-b18b-b586ce596b3f)
-
+Korrelation zwischen Laufzeit und Bewertung: 0.3785280720080518
 
 # Gibt es einen Zusammenhang zwischen einem höheren Filmbudget und besseren Ratings von Filmen? 
 Warum ist das wichtig? Diese Untersuchung bietet Einblicke, wie Finanzierungsentscheidungen den kommerziellen Erfolg von Filmen beeinflussen und kann Produktionsstrategien informieren.
@@ -111,16 +102,23 @@ Die Heatmap zeigt eine Korrelationsmatrix, in der die Korrelation von 'Rating' z
 
 Es besteht also keine starke lineare Beziehung zwischen dem Budget und dem Rating
 
+# Wie haben sich die durchschnittlichen Filmbewertungen im Laufe der Jahre entwickelt?
 
-# Gibt es einen Zusammenhang zwischen der Länge eines Films und den Ratings von Filmen? 
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/e94afa28-bcc8-408a-9471-4598e8949486)
 
-Warum ist das wichtig?
-Die Analyse der Laufzeitbewertungskorrelation hilft, das optimale Gleichgewicht zwischen einer ansprechenden Laufzeit und Zuschauerzufriedenheit zu verstehen. 
+Es ist deutlich zu sehen, dass die Ratings für das Jahr 2020 am schwächsten sind. 
 
-![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/0f6c5090-a364-4f1e-8702-40f6cb6c44ee)
+# Besonderheiten und Auffälligkeiten im Jahr 2020 
 
-Die Korrelation von ungefähr 0.38 weist darauf hin, dass es eine positive Assoziation zwischen der Laufzeit eines Films und seiner Bewertung gibt das heißt, Filme mit einer längeren Laufzeit tendieren dazu, höhere Bewertungen zu haben.
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/1556b9f8-923b-4c2c-9ec3-86a8939c7867)
 
-Korrelation zwischen Laufzeit und Bewertung: 0.3785280720080518
+Das obige Diagramm konzentriert sich auf das Jahr 2020 und zeigt, dass "Drama" das am häufigsten vorkommende Genre war, gefolgt von "Comedy" und "Action"
+
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/df616134-1776-4f70-8667-7af56ba74d2a)
+
+
+  # Top 10 der Filme mit den schlechtesten Bewertungen im Jahr 2020 
+
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/1db9b0b9-9d02-4238-b18b-b586ce596b3f)
 
 # Abschluss 
