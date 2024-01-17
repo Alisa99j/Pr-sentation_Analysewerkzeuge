@@ -121,7 +121,7 @@ Die Heatmap zeigt eine Korrelationsmatrix, in der die Korrelation von 'Rating' z
 
 Es besteht also keine starke lineare Beziehung zwischen dem Budget und dem Rating
 
-# Diskussion der Ergebnisse & weitere Quellen 
+# Diskussion der Ergebnisse & weiterer wissenschaftlicher Quellen 
 Was ist besonders gewesen im Jahr 2020? Die Welt wurde von der Pandemie erschüttert. Dies hatte natürlich auch Auswirkungen auf die Filmindustrie. 
 
 Die Auswirkungen sind nicht auf ein Land begrenzt, wie auch andere wissenschaftliche Quellen belegen. 
@@ -135,12 +135,12 @@ Quelle: https://www.bfs.admin.ch/bfs/de/home/statistiken/kultur-medien-informati
 
 Die Geschäftsberichte der Filmförderungsanstalt, FFA (nationale Filmförderung Deutschlands) zeigen ausführlich, wie sich die Einnahmen der FFA im jeweiligen Jahr gestalten. 
 
-![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/71b9bf38-00d0-4781-a91a-886606ad5b6a)
-
 Auch in Deutschland sieht man einen markanten Einbruch im Umsatz im Jahr 2020. Dies deckt sich mit den Auswirkungen der Pandemie auf die Filmindustrie. 
 Die ersten beiden Monate des Jahres 2020, Januar und Februar, zeigen nur einen leichten Rückgang bzw. eine leichte Zunahme im Vergleich zum Vorjahr, was darauf hindeutet, dass die pandemiebedingten Auswirkungen erst ab März spürbar wurden.
 
 Wenn man 2020 mit 2018 vergleicht, ist der Rückgang noch dramatischer, da der Gesamtumsatz in 2020 nur ein Drittel von dem in 2018 beträgt. 
+
+![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/71b9bf38-00d0-4781-a91a-886606ad5b6a) 
 
 Quelle: https://www.ffa.de/marktdaten.html
 
