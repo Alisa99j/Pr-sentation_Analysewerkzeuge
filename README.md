@@ -127,11 +127,10 @@ Was ist besonders gewesen im Jahr 2020? Die Welt wurde von der Pandemie erschüt
 Die Auswirkungen sind nicht auf ein Land begrenzt, wie auch andere wissenschaftliche Quellen belegen. 
 
 ![gr-d-16 02 01 01-je](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/2bba1322-11c6-44e5-99de-ac3c42ae72ea)
+Quelle: (Schweizer Bundesamt für Statistik , 2022)
 
 Daten vom Bundesamt Statistik Schweiz zeigen ein ähnliches Ergebnis hinsichtlich 2020 wie der bearbeitete Datensatz. 
-Die Kinoeintritte sackten 2020 auf 4,5 Millionen zusammen, 2021 zählte man 5,4 Millionen Besucher.
-
-Quelle: https://www.bfs.admin.ch/bfs/de/home/statistiken/kultur-medien-informationsgesellschaft-sport/kultur/film-kino/kinoeintritte-und-privat-filme.html
+Die Kinoeintritte sackten 2020 auf 4,5 Millionen zusammen, 2021 zählte man 5,4 Millionen Besucher (Schweizer Bundesamt für Statistik , 2022)
 
 Die Geschäftsberichte der Filmförderungsanstalt, FFA (nationale Filmförderung Deutschlands) zeigen ausführlich, wie sich die Einnahmen der FFA im jeweiligen Jahr gestalten. 
 
@@ -142,13 +141,13 @@ Wenn man 2020 mit 2018 vergleicht, ist der Rückgang noch dramatischer, da der G
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/71b9bf38-00d0-4781-a91a-886606ad5b6a) 
 
-Quelle: https://www.ffa.de/marktdaten.html
+Quelle: (Filmförderungsanstalt , 2022)
 
 Im Jahr 2020 ist auch in Österreich ein drastischer Rückgang der Kinobesuche zu erkennen. Dieser Rückgang ist eine direkte Folge der globalen COVID-19-Pandemie, die zu weitreichenden Schließungen von öffentlichen Einrichtungen, darunter auch Kinos, geführt hat.
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/4bef1f8e-1ce3-4360-86a7-55b659d356b9)
 
-Quelle: https://www.statistik.at/statistiken/bevoelkerung-und-soziales/kultur/museen-und-ausstellungen - Kulturstatistik 2021 
+Quelle: (STATISTIK AUSTRIA, 2023)
 
 # Ausblick für zukünftige Untersuchungen 
 
@@ -164,6 +163,23 @@ Durch die Analyse von Aspekten wie Genres, Bewertungen, Budgets und vielem mehr,
 
 Obwohl dieser Einblick wertvoll ist, bleibt die Filmwelt eine sich ständig verändernde Landschaft, beeinflusst von technologischen Fortschritten, globalen Ereignissen und sich wandelnden Zuschauerpräferenzen. Zukünftige Studien sollten daher die Rolle von Streaming-Diensten, die Evolution von Filmgenres , um ein noch vollständigeres Bild der Faktoren zu erhalten, die die Popularität von Filmen bestimmen. In dieser dynamischen Branche bleibt die einzige Konstante der Wandel selbst, und es ist spannend zu beobachten, wie sich zukünftige Trends entwickeln werden. 
 
+# Literaturverzeichnis 
+
+STATISTIK AUSTRIA
+Titel: Mikrozensus-Arbeitskräfteerhebung 2021 (Jahresdurchschnitt über alle Wochen)
+Erstellungsdatum: 02.03.2023
+URL: [https://www.statistik.at/statistiken/bevoelkerung-und-soziales/kultur/museen-und-ausstellungen)]
+Zitat: STATISTIK AUSTRIA. (2023). Mikrozensus-Arbeitskräfteerhebung 2021 (Jahresdurchschnitt über alle Wochen). Erstellt am 02.03.2023. Abgerufen von [https://www.statistik.at/statistiken/bevoelkerung-und-soziales/kultur/museen-und-ausstellungen]
+
+Filmförderungsanstalt (FFA)
+Titel: Marktdaten
+URL: [https://www.ffa.de/marktdaten.html]
+Zitat: Filmförderungsanstalt (FFA). (2022). Marktdaten. Abgerufen von [https://www.ffa.de/marktdaten.html]
+
+Bundesamt für Statistik (BFS)
+Titel: Kinobesuche und private Filmvorführungen
+URL: [https://www.bfs.admin.ch/bfs/de/home/statistiken/kultur-medien-informationsgesellschaft-sport/kultur/film-kino/kinoeintritte-und-privat-filme.html]
+Zitat: Bundesamt für Statistik (BFS). (2022). Kinobesuche und private Filmvorführungen. Abgerufen von [https://www.bfs.admin.ch/bfs/de/home/statistiken/kultur-medien-informationsgesellschaft-sport/kultur/film-kino/kinoeintritte-und-privat-filme.html]
 
 
 
