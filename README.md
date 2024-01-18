@@ -142,7 +142,6 @@ Wenn man 2020 mit 2018 vergleicht, ist der Rückgang noch dramatischer, da der G
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/71b9bf38-00d0-4781-a91a-886606ad5b6a) 
 
 Quelle: (Filmförderungsanstalt , 2022)
-
 Im Jahr 2020 ist auch in Österreich ein drastischer Rückgang der Kinobesuche zu erkennen. Dieser Rückgang ist eine direkte Folge der globalen COVID-19-Pandemie, die zu weitreichenden Schließungen von öffentlichen Einrichtungen, darunter auch Kinos, geführt hat.
 
 ![image](https://github.com/Alisa99j/Pr-sentation_Top100Movies/assets/155681145/4bef1f8e-1ce3-4360-86a7-55b659d356b9)
