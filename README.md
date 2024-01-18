@@ -6,7 +6,7 @@ Verwendet wurde folgender Datensatz: Top 100 popular movies from 2003 to 2022
 
 
 # Informationen zum Datensatz
-Das Datenset enthält die meisten 100 beliebten Filme für jedes Jahr im Zeitraum 2003-2022.
+Das Datenset enthält die  100 beliebten Filme für jedes Jahr im Zeitraum 2003-2022.
 Jede einzelne Information wurde durch Web-Scraping gesammelt und ist auf iMDB zu finden.
 
 Das Datenset enthält:
